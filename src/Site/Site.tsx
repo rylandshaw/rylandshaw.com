@@ -26,7 +26,7 @@ export default function Site() {
       </div>
       <section className='News'>
         <section className='BigNews'>
-          <h2>Big News</h2>
+          <h2>Big News!</h2>
           <article>
             Big news 1 / Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
           </article>
