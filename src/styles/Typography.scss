@@ -1,4 +1,8 @@
+$MAX_MOBILE_WIDTH: '768px';
+
 :root {
+    --text-gap: 1rem;
+
     font-family: Helvetica, system-ui, sans-serif;
     line-height: 1.5;
     font-weight: 400;
@@ -20,15 +24,11 @@ p {
 }
 
 p {
-    margin-bottom: 1rem;
+    margin-bottom: var(--text-gap);
 }
 
 p:last-of-type {
     margin-bottom: 0;
-}
-
-h2 {
-    margin-bottom: 0.5rem;
 }
 
 a {
@@ -42,8 +42,12 @@ a:hover {
 }
 
 h1 {
-    font-size: 3.2em;
+    font-size: 2rem;
     line-height: 1.1;
+
+    @media (min-width: $MAX_MOBILE_WIDTH) {
+        font-size: 3.2rem;
+    }
 }
 
 @media (prefers-color-scheme: light) {
