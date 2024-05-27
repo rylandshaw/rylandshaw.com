@@ -21,6 +21,17 @@ body {
 
 }
 
+.Header {
+    display: flex;
+    flex-direction: column;
+
+    @media (min-width: $MAX_MOBILE_WIDTH) {
+        flex-direction: row;
+        align-items: center;
+        gap: var(--content-gap)
+    }
+}
+
 .Profile {
     position: relative;
     display: flex;
@@ -45,6 +56,11 @@ body {
     }
 }
 
+.Swim {
+    height: 120px;
+    margin-top: -20px;
+}
+
 .Description {
     grid-area: Desc;
     max-width: 92ch;
@@ -58,6 +74,23 @@ body {
 
     @media (min-width: $MAX_MOBILE_WIDTH) {
         grid-template-columns: 1fr 1fr;
+    }
+
+    header {
+        display: flex;
+        align-items: baseline;
+    }
+
+    .BigImage {
+        height: 86px;
+    }
+
+    .SmallImage {
+        height: 54px;
+
+        @media (min-width: $MAX_MOBILE_WIDTH) {
+            margin-top: 32px;
+        }
     }
 
     >section {

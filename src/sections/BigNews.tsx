@@ -1,7 +1,12 @@
+import penguin from '../assets/big penguin.svg'
+
 export default function BigNews() {
     return (
         <>
-            <h2>Big News!</h2>
+            <header>
+                <img className='BigImage' src={penguin} />
+                <h2>Big News!</h2>
+            </header>
             <article>
                 Apr 2024: The feature-length documentary I produced and assistant edited, <em>Amakki</em>, premiered at the 2024 Atlanta Film Festival, where it won best documentary!
             </article>

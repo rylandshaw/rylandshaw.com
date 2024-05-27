@@ -4,28 +4,28 @@ import Description from '../sections/Description'
 import BigNews from '../sections/BigNews'
 import LittleNews from '../sections/LittleNews'
 import profile from '../assets/profile.jpeg'
+import penguin from '../assets/swim penguin.svg'
 
 export default function Layout() {
 
   return (
     <div className='Site'>
-      <header>
+      <header className='Header'>
         <div className="Profile">
           <img src={profile} />
           <div>
             <h1>Ryland Shaw</h1>
             <nav>
               <a href="/">CV</a>
-              <span>|</span>
+              <span>❄</span>
               <a href="/">Scholar</a>
-              <span>|</span>
+              <span>❄</span>
               <a href="/">LinkedIn</a>
               <a className='EmailLink' href="mailto:ryland.shaw@gmail.com">ryland.shaw@gmail.com</a>
             </nav>
           </div>
-
         </div>
-
+        <img className="Swim" src={penguin} />
       </header>
 
       <section className='Description'>

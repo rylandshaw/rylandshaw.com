@@ -1,7 +1,12 @@
+import penguin from '../assets/small penguin.svg'
+
 export default function LittleNews() {
     return (
         <>
-            <h2>Little News</h2>
+            <header>
+                <img className='SmallImage' src={penguin} />
+                <h2>Little News</h2>
+            </header>
             <article>
                 June 2024: A book chapter I wrote with Shane Gunster and Robert Neubauer, <em>Sourcing Matters: Activism, expertise and alternative media</em>, was accepted and will appear in Anabela Carvalho and Tarla Rai Peterson’s <em>Handbook on Environmental Communications</em>.
             </article>
