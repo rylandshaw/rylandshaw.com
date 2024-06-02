@@ -5,7 +5,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/rylandshaw.com/',
+  base: '/',
   plugins: [react(), htmlPrerender({
     staticDir: path.join(__dirname, "dist"),
     routes: ["/"],
