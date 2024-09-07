@@ -8,7 +8,7 @@ export default function BigNews() {
                 <h2>Big News!</h2>
             </header>
             <article>
-                Apr 2024: The feature-length documentary I produced and assistant edited, <em>Amakki</em>, premiered at the 2024 Atlanta Film Festival, where it won best documentary.
+                Apr 2024: The feature-length documentary I produced and assistant edited, <em><a href="https://amakki.net" target="_blank">Amakki</a></em>, premiered at the 2024 Atlanta Film Festival, where it won best documentary.
             </article>
             <article>
                 Dec 2023: I successfully defended my master’s thesis, <em>The Logic of Imitation and the Reconfiguration of News in Climate Communication on TikTok</em>.
