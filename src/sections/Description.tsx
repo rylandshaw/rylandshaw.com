@@ -6,7 +6,7 @@ export default function Description() {
             </p>
 
             <p>
-                I currently have several research collaborations at various stages of being cooked. In one, we're looking at the types of AI-generated content that AI companies and researchers deem undesirable, and how they developed these categories. In another, we're using STS methods investigate how states are regulating and deploying carbon capture technology infrastructure. As I'm preparing to enter a PhD program, I've been thinking about how tech companies practice social and environmental responsibility, primarily in the recent emergence of 'AI-for-environment' initiatiives, and how the expansion of corporate 'tech-for-good' initiatives to the climate crisis is shaping the future of climate resilience. 
+                I currently have several research collaborations at various stages of being cooked. In one, we're looking at the types of AI-generated content that AI companies and researchers deem undesirable, and how they developed these categories. In another, we're using STS methods investigate how states are regulating and deploying carbon capture technology infrastructure. As I'm preparing to enter a PhD program, I've been thinking about how tech companies practice social and environmental responsibility, primarily in the recent emergence of 'AI-for-environment' initiatiives, and how the extension of corporate 'tech-for-good' initiatives to the climate crisis is shaping the future of climate resilience. 
             </p>
 
             <p>
