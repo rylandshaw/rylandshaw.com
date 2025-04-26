@@ -8,6 +8,9 @@ export default function LittleNews() {
                 <h2>Little News</h2>
             </header>
             <article>
+                April 2025: I gave a talk titled <em>From questioning energy to questioning power: Deconstructing 'AI for Sustainability'</em> to members of Seton Hall University's Teaching, Learning, and Technology Roundtable AI subcommittee.
+            </article>
+            <article>
                 December 2024: I helped write and produce several short videos that mobilized great work done at Microsoft Research, like: <em><a href="https://www.microsoft.com/en-us/research/video/pronouns-in-the-workplace-learning-inclusive-software-design-from-real-world-experiences/" target="_blank">Pronouns in the Workplace: Learning Inclusive Software Design from Real-World Experiences</a></em> and <em><a href="https://www.youtube.com/watch?v=XsGqgaxy3Mo/" target="_blank">What Language Does AI Speak?</a></em> (which won an award from the Association for the Advancement of Artificial Intelligence!)
             </article>
             <article>
@@ -21,9 +24,6 @@ export default function LittleNews() {
             </article>
             <article>
                 June 2024: A book chapter I wrote with Shane Gunster and Robert Neubauer, <em>Sourcing Matters: Activism, expertise and alternative media</em>, was accepted and will appear in Anabela Carvalho and Tarla Rai Peterson’s <em>Handbook on Environmental Communications</em>.
-            </article>
-            <article>
-                March 2024: I was credited for research assistance on three recently published papers: Tarleton Gillespie, <em>Generative AI and the Politics of Visibility</em>; Janet A. Vertesi and danah boyd, <em>The Resource Bind: System Failure and Legitimacy Threats in Sociotechnical Organizations</em>; and Maria P. Angel and danah boyd, <em>Techno-legal Solutionism: Regulating Children’s Online Safety in the United States</em>.
             </article>
         </>
     )
