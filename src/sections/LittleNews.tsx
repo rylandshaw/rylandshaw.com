@@ -23,7 +23,7 @@ export default function LittleNews() {
                 October 2024: Nancy Baym, Chuncheng Liu and I presented our work on the metaphors used to negotiate contested future visions of generative AI at AoIR: <em>"It’s a Friend! It’s a Puppy! It’s AI!: Making Sense of Copilot"</em>. 
             </article>
             <article>
-                June 2024: A book chapter I wrote with Shane Gunster and Robert Neubauer, <em>Sourcing Matters: Activism, expertise and alternative media</em>, was accepted and will appear in Anabela Carvalho and Tarla Rai Peterson’s <em>Handbook on Environmental Communications</em>.
+                June 2024: A book chapter I wrote with Shane Gunster and Robert Neubauer, <em><a href="https://books.google.com/books?hl=en&lr=&id=mrI0EQAAQBAJ&oi=fnd&pg=PA259&ots=huaA9dlo9x&sig=g6PhWTRSL1AmBlGEVgS37X3rK0w#v=onepage&q&f=false" target="_blank">Sourcing matters: Voices in progressive alternative media</a></em>, was published in Anabela Carvalho and Tarla Rai Peterson’s <em>Handbook on Environmental Communications</em>.
             </article>
         </>
     )
