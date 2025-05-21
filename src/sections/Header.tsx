@@ -12,7 +12,7 @@ export default function Header() {
           <a href="https://scholar.google.com/citations?user=fHPG_O0AAAAJ" target="_blank">Scholar</a>
           <span>❄</span>
           <a href="https://www.linkedin.com/in/ryland-shaw/" target="_blank">LinkedIn</a>
-          <span className='EmailLink'>v-rylandshaw@microsoft.com</span>
+          <span className='EmailLink'>ryland.shaw@usc.edu</span>
         </nav>
       </div>
     </div>
