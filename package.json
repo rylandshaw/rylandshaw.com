@@ -29,6 +29,6 @@
     "vite-plugin-html-prerender": "^0.2.0"
   },
   "overrides": {
-    "puppeteer": "latest"
+    "puppeteer": "22.8.2"
   }
 }
