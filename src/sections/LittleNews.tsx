@@ -8,6 +8,9 @@ export default function LittleNews() {
                 <h2>Little News</h2>
             </header>
             <article>
+                June 2025: Another pre-print out!: <em><a href="https://arxiv.org/abs/2505.24246" target="_blank">Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work</a></em>, with lead author Alice Q. Zhang, and co-authors Laura Dabbish, Jina Suh, and Hong Shen. Submitted to CSCW. 
+            </article>
+            <article>
                 April 2025: I gave a talk titled <em>From questioning energy to questioning power: Deconstructing 'AI for Sustainability'</em> to members of Seton Hall University's Teaching, Learning, and Technology Roundtable AI subcommittee.
             </article>
             <article>
@@ -15,9 +18,6 @@ export default function LittleNews() {
             </article>
             <article>
                 December 2024: Hot off the (pre-print) press, with Tarleton Gillespie, Jina Suh and Mary Gray: <em><a href="https://arxiv.org/abs/2412.09751" target="_blank">AI Red Teaming is a Sociotechnical System. Now What? </a></em> 
-            </article>
-            <article>
-                November 2024: I organized a workshop at CSCW in Costa Rica on the <em><a href="https://sites.google.com/view/thehumanfactorinairedteaming/home?authuser=0" target="_blank">Human Factor in AI Red Teaming</a></em>, alongside a team of researchers from Microsoft Research, Carnegie Mellon, UI Chicago and U of Michigan.
             </article>
             <article>
                 October 2024: Nancy Baym, Chuncheng Liu and I presented our work on the metaphors used to negotiate contested future visions of generative AI at AoIR: <em>"It’s a Friend! It’s a Puppy! It’s AI!: Making Sense of Copilot"</em>. 
