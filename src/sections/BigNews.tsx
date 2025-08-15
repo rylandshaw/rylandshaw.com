@@ -8,6 +8,9 @@ export default function BigNews() {
                 <h2>Big News!</h2>
             </header>
             <article>
+                Aug 2025: I've joined USC's doctoral program in Communication as an Annenberg Fellow! See my profile <em><a href="https://annenberg.usc.edu/phd-students/ryland-shaw" target="_blank">here.</a></em>. 
+            </article>
+            <article>
                 Apr 2024: The documentary I produced and assistant edited, <em><a href="https://amakki.net" target="_blank">Amakki</a></em>, premiered at the 2024 Atlanta Film Festival, where it won Best Documentary Feature. <em>Amakki</em> was also an official selection of FESPACO 2025, 2024 Black Harvest Film Festival in Chicago and the 2024 International Images Film Festival for Women in Zimbabwe. 
             </article>
             <article>
