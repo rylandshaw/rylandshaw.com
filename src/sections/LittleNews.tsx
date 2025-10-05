@@ -8,7 +8,8 @@ export default function LittleNews() {
                 <h2>Little News</h2>
             </header>
             <article>
-                June 2025: Another pre-print out!: <em><a href="https://arxiv.org/abs/2505.24246" target="_blank">Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work</a></em>, with lead author Alice Q. Zhang, and co-authors Laura Dabbish, Jina Suh, and Hong Shen. Submitted to CSCW. 
+                Aug 2025: Two pre-prints out!: <em><a href="https://arxiv.org/abs/2505.24246" target="_blank">Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work</a></em>, submitted to CSCW, and <em><a href="https://arxiv.org/pdf/2509.12140" target="_blank">Worker Discretion Advised: Co-designing Risk Disclosure in Crowdsourced
+Responsible AI (RAI) Content Work</a></em>, submitted to CHI. These projects were led by Alice Q. Zhang, and supported by myself, Ziqi Yang, Laura Dabbish, Jina Suh, and Hong Shen.  
             </article>
             <article>
                 April 2025: I gave a talk titled <em>From questioning energy to questioning power: Deconstructing 'AI for Sustainability'</em> to members of Seton Hall University's Teaching, Learning, and Technology Roundtable AI subcommittee.
@@ -18,9 +19,6 @@ export default function LittleNews() {
             </article>
             <article>
                 December 2024: Hot off the (pre-print) press, with Tarleton Gillespie, Jina Suh and Mary Gray: <em><a href="https://arxiv.org/abs/2412.09751" target="_blank">AI Red Teaming is a Sociotechnical System. Now What? </a></em> 
-            </article>
-            <article>
-                October 2024: Nancy Baym, Chuncheng Liu and I presented our work on the metaphors used to negotiate contested future visions of generative AI at AoIR: <em>"It’s a Friend! It’s a Puppy! It’s AI!: Making Sense of Copilot"</em>. 
             </article>
             <article>
                 June 2024: A book chapter I wrote with Shane Gunster and Robert Neubauer, <em><a href="https://books.google.com/books?hl=en&lr=&id=mrI0EQAAQBAJ&oi=fnd&pg=PA259&ots=huaA9dlo9x&sig=g6PhWTRSL1AmBlGEVgS37X3rK0w#v=onepage&q&f=false" target="_blank">Sourcing matters: Voices in progressive alternative media</a></em>, was published in Anabela Carvalho and Tarla Rai Peterson’s <em>Handbook on Environmental Communications</em>.
