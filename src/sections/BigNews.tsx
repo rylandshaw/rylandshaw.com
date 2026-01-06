@@ -19,9 +19,6 @@ export default function BigNews() {
             <article>
                 Dec 2023: I successfully defended my master’s thesis, <em>The Logic of Imitation and the Reconfiguration of News in Climate Communication on TikTok</em>, finishing my time at Simon Fraser University.
             </article>
-            <article>
-                June 2023: I joined Microsoft Research’s Social Media Collective as a pre-doctoral research assistant.
-            </article>
         </>
     )
 }
