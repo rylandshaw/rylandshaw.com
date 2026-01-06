@@ -6,15 +6,15 @@ export default function Description() {
             </p>
 
             <p>
-                I currently have several projects in the oven. In one (with Tarleton Gillespie and Parker Bach), we're looking at the types of AI-generated content that AI companies and researchers deem undesirable, and the internalist corporate discourses that incubated these categories. In another, I'm investigating how venture capital funding is shaping the development of young carbon capture technology startups. Lately, I've been thinking more broadly about how tech companies practice social and environmental responsibility, primarily in the recent emergence of 'AI-for-environment' initiatives, and how the extension of corporate 'tech-for-good' initiatives to the climate crisis is changing the future of climate resilience. 
+                I currently have several projects in the oven. In one (with Tarleton Gillespie and Parker Bach), we're looking at the types of risks that AI companies and researchers deem undesirable, and the internalist corporate knowledge productions systems that incubated these categories. In two others, I'm investigating the emergence of new environmental infrastructures such as carbon capture and storage systems and 'AI-for'environment' initiatives. 
             </p>
 
             <p>    
-                For two years prior to joining USC, I was a pre-doctoral research assistant with the Microsoft Research Social Media Collective. Before that, I earned an MA in Communication from Simon Fraser University, where I wrote a thesis about the socio-technical frictions that impede effective climate crisis communication on TikTok. Simultaneously, with a small but mighty team, I produced a feature documentary, <em><a href="https://amakki.net" target="_blank">Amakki</a></em>, which saw a successful festival circuit including winning Best Feature Documentary at the 2024 Atlanta Film Festival and as an official selection of FESPACO. 
+                For two years prior to joining USC, I was a pre-doctoral research assistant with the Microsoft Research Social Media Collective. Before that, I earned an MA in Communication from Simon Fraser University, where I wrote a thesis about the socio-technical frictions that impede effective climate crisis communication on TikTok. Simultaneously, with a small but mighty team, I produced a feature documentary, <em><a href="https://amakki.net" target="_blank">Amakki</a></em>, which won several awards at festivals around the world.  
             </p>
 
             <p>
-                I belong to quite a few communities and am constantly trying new hobbies. I've been on volleyball and dodgeball teams in various LGBTQ sports leagues in Boston, NYC and LA. I recently learned how to ride a motorcycle, then drove it all around the mountains of Vietnam. I was a leader within my graduate school community at SFU, having served as Graduate Caucus Co-chair, among a ton of other committees and working groups. I feel most at home in creative spaces like SFU’s Media & Maker Commons, where I worked as an instructor for two years.
+                I belong to quite a few communities and am constantly trying new hobbies. I've been on volleyball and dodgeball teams in various LGBTQ sports leagues in Boston, NYC and LA. I recently learned how to ride a motorcycle. I was a leader within my graduate school community at SFU, having served as Graduate Caucus Co-chair, among a ton of other committees and working groups. I feel most at home in creative spaces like SFU’s Media & Maker Commons, where I worked as an instructor for two years.
             </p>
         </article >
     )

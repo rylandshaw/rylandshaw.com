@@ -22,9 +22,6 @@ export default function BigNews() {
             <article>
                 June 2023: I joined Microsoft Research’s Social Media Collective as a pre-doctoral research assistant.
             </article>
-            <article>
-                October 2022: I co-authored a paper with Professor Tammara Soma, <em><a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2022.1007567/full" target="_blank">To the Farm, Mars and Beyond: Technologies for Growing Food in Space, the Future of Long-Duration Space Missions, and Earth Implication in English News Media Coverage</a></em>, published in Frontiers in Communication.
-            </article>
         </>
     )
 }
