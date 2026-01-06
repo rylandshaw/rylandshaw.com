@@ -1,4 +1,4 @@
-import profile from '../assets/profile2.jpeg'
+import profile from '../assets/profile2.jpg'
 
 export default function Header() {
   return (
