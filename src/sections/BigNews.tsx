@@ -8,10 +8,10 @@ export default function BigNews() {
                 <h2>Big News!</h2>
             </header>
             <article>
-                Jan 2026: Out now in the Communications of the ACM: <em><a href="https://ijoc.org/index.php/ijoc/article/view/24604" target="_blank">AI Red-Teaming is a sociotechnical problem: On values, labor, and harms</a></em>, with Tarleton Gillespie, Mary Gray, and Jina Suh. 
+                Jan 2026: Out now in the Communications of the ACM: <em><a href="https://cacm.acm.org/research/ai-red-teaming-is-a-sociotechnical-problem/" target="_blank">AI Red-Teaming is a sociotechnical problem: On values, labor, and harms</a></em>, with Tarleton Gillespie, Mary Gray, and Jina Suh. 
             </article>
             <article>
-                Dec 2025: I published a new article in the International Journal of Communication: <em><a href="https://cacm.acm.org/research/ai-red-teaming-is-a-sociotechnical-problem/" target="_blank">Is TikTok “for” News? Sociotechnical Frictions and Workarounds in Environmental News Events on TikTok </a></em>. 
+                Dec 2025: I published a new article in the International Journal of Communication: <em><a href="https://ijoc.org/index.php/ijoc/article/view/24604/5139" target="_blank">Is TikTok “for” News? Sociotechnical Frictions and Workarounds in Environmental News Events on TikTok </a></em>. 
             </article>
             <article>
                 Aug 2025: I've joined USC's doctoral program in Communication as an Annenberg Fellow! See my profile <em><a href="https://annenberg.usc.edu/phd-students/ryland-shaw" target="_blank">here</a></em>. 
