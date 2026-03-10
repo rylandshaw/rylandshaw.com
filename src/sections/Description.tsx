@@ -6,11 +6,11 @@ export default function Description() {
             </p>
 
             <p>
-                I currently have several projects in the oven. In one (with Tarleton Gillespie and Parker Bach), we're looking at the types of risks that AI companies and researchers deem undesirable, and the internalist corporate knowledge productions systems that incubated these categories. In two others, I'm investigating the emergence of new environmental infrastructures such as carbon capture and storage systems and 'AI-for'environment' initiatives. 
+                My overarching research interest lies in the social construction of "responsibility" in new technologies: how do technologies come to be seen as safe, trusted, and beneficial to society? I currently have several projects in the oven. In one project (with Tarleton Gillespie and Parker Bach), we're looking at the types of risks that AI companies and researchers deem undesirable, and the internalist corporate knowledge production systems that incubated these categories. In two others, I'm investigating the emergence of new environmental infrastructures such as carbon capture and storage systems and 'AI-for-environment' initiatives. 
             </p>
 
             <p>    
-                For two years prior to joining USC, I was a pre-doctoral research assistant with the Microsoft Research Social Media Collective. Before that, I earned an MA in Communication from Simon Fraser University, where I wrote a thesis about the socio-technical frictions that impede effective climate crisis communication on TikTok. Simultaneously, with a small but mighty team, I produced a feature documentary, <em><a href="https://amakki.net" target="_blank">Amakki</a></em>, which won several awards at festivals around the world.  
+                For two years prior to joining USC, I was a pre-doctoral research assistant with the Microsoft Research Social Media Collective. I earned an MA in Communication from Simon Fraser University, where I wrote a thesis about the socio-technical frictions that impede effective climate crisis communication on TikTok (see my <em><a href="https://ijoc.org/index.php/ijoc/article/view/24604/5139" target="_blank">publication in the International Journal of Communication</a></em>) based on this work. Simultaneously, with a small but mighty team, I produced a feature documentary, <em><a href="https://amakki.net" target="_blank">Amakki</a></em>, which won several awards at festivals around the world.  
             </p>
 
             <p>
