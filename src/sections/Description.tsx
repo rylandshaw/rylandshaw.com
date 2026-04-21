@@ -14,7 +14,7 @@ export default function Description() {
             </p>
 
             <p>
-                I belong to quite a few communities and am constantly trying new hobbies. I've been on volleyball and dodgeball teams in various LGBTQ sports leagues in Boston, NYC and LA. I recently learned how to ride a motorcycle. I was a leader within my graduate school community at SFU, having served as Graduate Caucus Co-chair, among a ton of other committees and working groups. I feel most at home in creative spaces like SFU’s Media & Maker Commons, where I worked as an instructor for two years.
+                I belong to quite a few communities and am always up for trying new hobbies. I captained a queer volleyball team this spring and we won the tournament! (It's just recreational, but a win's a win, right?). I also recently learned how to ride a motorcycle. I was a leader within my graduate school community at SFU, having served as Graduate Caucus Co-chair, among a ton of other committees and working groups. I feel most at home in creative spaces like SFU’s Media & Maker Commons, where I worked as an instructor for two years.
             </p>
         </article >
     )
