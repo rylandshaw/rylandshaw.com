@@ -2,7 +2,7 @@ export default function Description() {
     return (
         <article>
             <p>
-                Hi, I’m Ryland. I am a sociotechnical researcher and documentary filmmaker asking critical questions about technology, the environment, and Silicon Valley cultures and values. I am a doctoral fellow at the University of Southern California's Annenberg School of Communication in Los Angeles.
+                Hi, I’m Ryland. I am a sociotechnical researcher and documentary filmmaker asking critical questions about technology, the environment, and Silicon Valley cultures and values. I am a doctoral fellow at the University of Southern California's Annenberg School of Communication in Los Angeles, where I am advised by Dr. Mike Ananny.
             </p>
 
             <p>
